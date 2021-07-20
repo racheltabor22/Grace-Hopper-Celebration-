@@ -1,5 +1,7 @@
 # Grace-Hopper-Celebration-
-**Newcomb: Tech in Action Zine **
+
+
+**Conference and Zine**
 
 Each GHC student is required to attend the majority of the GHC conference.  In addition to attending the meet and greets and resume workshop, during the conference, you must attend the  keynote, job fair, virtual networking events and at least two panels / talks.    
 
@@ -21,7 +23,7 @@ Your review must include:
 
 **Steps**
 
-You will create your poster/spread as a “portrait” layout in canva. It can be one or two pages.  
+You will create your poster/spread as a “portrait” layout in canva. It can be one or two pages. See the GHC posters located in the NI [Tech Zines](https://issuu.com/ncidigitalresearchlab). 
 
 The poster should be organized, proofread/peer reviewed by two (2) GHC peers, visually appealing, and editable.  
 
