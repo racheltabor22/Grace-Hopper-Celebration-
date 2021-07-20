@@ -1,5 +1,5 @@
 # Grace-Hopper-Celebration-
-Newcomb: Tech in Action Zine 
+**Newcomb: Tech in Action Zine **
 
 Each GHC student is required to attend the majority of the GHC conference.  In addition to attending the meet and greets and resume workshop, during the conference, you must attend the  keynote, job fair, virtual networking events and at least two panels / talks.    
 
