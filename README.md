@@ -1,6 +1,7 @@
 # Grace-Hopper-Celebration-
 
 **Application**
+
 To apply to GHC 2021, fill out the following [application](https://tulane.campuslabs.com/engage/submitter/form/start/478593). 
 
 
