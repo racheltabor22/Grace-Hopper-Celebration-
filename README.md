@@ -23,7 +23,7 @@ Your review must include:
 
 **Steps**
 
-You will create your poster/spread as a “portrait” layout in canva. It can be one or two pages. See the GHC posters located in the NI [Tech Zines](https://issuu.com/ncidigitalresearchlab). 
+You will create your poster/spread as a “portrait” layout in canva. It can be one or two pages. For inspiration, see the GHC posters located in the NI [Tech Zines](https://issuu.com/ncidigitalresearchlab). 
 
 The poster should be organized, proofread/peer reviewed by two (2) GHC peers, visually appealing, and editable.  
 
