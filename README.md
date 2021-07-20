@@ -1,16 +1,9 @@
 # Grace-Hopper-Celebration-
 Newcomb: Tech in Action Zine 
 
-**GHC Contribution 
- **
-
-Each GHC student is required to attend the majority of the GHC conference.  In addition to attending the meet and greets and resume workshop, during the conference, you must attend the  keynote, job fair, virtual networking events and at least two panels / talks.   
-
- 
+Each GHC student is required to attend the majority of the GHC conference.  In addition to attending the meet and greets and resume workshop, during the conference, you must attend the  keynote, job fair, virtual networking events and at least two panels / talks.    
 
 By October 8, you will submit a poster/spread that reviews your experience attending the Virtual Grace Hopper Event.   
-
- 
 
 Your review must include: 
 
@@ -26,7 +19,7 @@ Your review must include:
 
  
 
-**Steps **
+**Steps**
 
 You will create your poster/spread as a “portrait” layout in canva. It can be one or two pages.  
 
