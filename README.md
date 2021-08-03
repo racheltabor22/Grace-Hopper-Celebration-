@@ -47,6 +47,8 @@ Final Draft Due for Publication: October 15
 - [The Grace Hopper Celebration Guide](https://tulane.box.com/s/cblqyzuks6958jdyp2wu9wcun3zvbkga)
 - [How to Prepare and Elevator Pitch](https://www.forbes.com/sites/alejandrocremades/2018/09/08/how-to-prepare-the-perfect-elevator-pitch/?sh=110a2a4770e5)
 - [Taylor Center's Changemaking Introduction Guidelines](https://tulane.app.box.com/s/1kygpso1lk16yqa6f42rogz518zy7yik)
-- 
+
+
+
 For questions, contact: Dr. Jacquelyne Thoni Howard via slack or email. 
 
