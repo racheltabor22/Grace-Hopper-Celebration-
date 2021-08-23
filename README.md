@@ -4,6 +4,13 @@
 
 To apply to GHC 2021, fill out the following [application](https://tulane.campuslabs.com/engage/submitter/form/start/478593). 
 
+**Important Dates**
+August 30 - Registration deadline
+September 3 - Submit resume for peer review (+ elevator pitch/bio/cover letter)
+September 27 thru October 1 - **Conference**
+October 8 - Poster draft
+October 15 - Poster final
+
 
 **Conference and Zine**
 
