@@ -4,6 +4,9 @@
 
 To apply to GHC 2021, fill out the following [application](https://tulane.campuslabs.com/engage/submitter/form/start/478593). 
 
+**Questions & Suggestions**
+DM Jacque and/or Rena on Slack. Both check Slack very often.
+
 **Important Dates**
 
 August 30 - Registration deadline
